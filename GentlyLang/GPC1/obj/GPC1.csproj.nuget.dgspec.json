@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "/run/media/kastya/G/GreatGooseGamesSoftware/GentlyLang/GPC1/GPC1.csproj": {}
+  },
+  "projects": {
+    "/run/media/kastya/G/GreatGooseGamesSoftware/GentlyLang/GPC1/GPC1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/run/media/kastya/G/GreatGooseGamesSoftware/GentlyLang/GPC1/GPC1.csproj",
+        "projectName": "GPC1",
+        "projectPath": "/run/media/kastya/G/GreatGooseGamesSoftware/GentlyLang/GPC1/GPC1.csproj",
+        "packagesPath": "/home/kastya/.nuget/packages/",
+        "outputPath": "/run/media/kastya/G/GreatGooseGamesSoftware/GentlyLang/GPC1/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/home/kastya/.local/share/godot/mono/GodotNuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/kastya/.nuget/NuGet/NuGet.Config",
+          "/home/kastya/.nuget/NuGet/config/Godot.Offline.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.412/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
